@@ -10,6 +10,9 @@
 
 ## Sobre mi
 - 📲 Java developer
+- 🐍 Python developer
+- 📔 SQL Server developer
+- 🖥️ PHP developer
 - 🛠 Ingeniero en Sistemas de Información
 
 ## Languages
